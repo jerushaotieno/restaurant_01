@@ -1,0 +1,250 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.section_one{
+    background-image: url("/img/spaghetti_images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.navbar{
+    color: white;
+    display: flex;
+    padding-top: 3%;
+    padding-right: 20%;
+    font-size: small;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.logo{
+    padding-right: 15%;
+    padding-left: 5%;
+    font-size: 25px;
+}
+
+.delecious{
+    text-align: center;
+    color: white;
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+
+#delecious_heading{
+    font-size: 50px;
+}
+
+#delecious_button{
+    background-color: rgb(240, 125, 105);
+    color: white;
+    padding: 1%;
+    border-radius: 25px;
+    border-color: rgb(240, 125, 105);
+}
+
+#delecius_heading{
+    padding-bottom: 50px;
+}
+
+#delecious_paragraph{
+    padding-bottom: 20px;
+}
+
+.section_two{
+    display: flex;
+    justify-content: space-between;
+    padding: 7%;
+    
+}
+
+.about_images_1{
+    
+}
+
+.about_images_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about_us{
+    text-align: justify;
+    line-height: 150%;
+    padding: 7%;
+    align-self: center;
+}
+
+#paragraph_1{
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+#paragraph_2{
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+#about_us_button{
+    background-color: rgb(240, 125, 105);
+    color: white;
+    padding: 3%;
+    border-radius: 25px;
+    border-color: rgb(240, 125, 105);
+}
+
+.section_three{
+    justify-content: center;
+    background-color: rgb(238, 237, 237);
+    padding: 3%;
+    align-items: center;
+}
+
+.our_menu{
+    text-align: center;
+    padding: 3%;
+}
+
+.menu_row_1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.menu_row_2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+#explore_menu{
+    background-color: rgb(240, 125, 105);
+    color: white;
+    padding: 1%;
+    border-color: rgb(240, 125, 105);
+    border-radius: 25px;
+    align: center;
+}
+
+.spicey_meatballs{
+    padding: 30px;
+    text-align: justify;
+}
+
+#order_now{
+    text-align: center;
+    justify-content: space-around;
+}
+
+.menu_button{
+    text-align: center;
+}
+
+#menu_button{
+    background-color: rgb(240, 125, 105);
+    color: white;
+    padding: 1%;
+    border-color: rgb(240, 125, 105);
+    border-radius: 25px;
+}
+
+.section_four{
+    justify-content: center;
+}
+
+.choose_us{
+    text-align: center;
+    padding: 3%;
+}
+
+.services_row_1{
+    display: inline-flex;
+    justify-content: space-around;
+    padding-right: 1%;
+    padding-left: 8%;
+    padding-bottom: 1%;
+}
+
+.services_row_2{
+    display: inline-flex;
+    justify-content: space-around;
+    padding-right: 1%;
+    padding-left: 8%;
+    padding-bottom: 1%;
+}
+
+.service{
+    padding: 30px;
+    text-align: center;
+}
+
+.section_five{
+    background-image: url(/img/spaghetti_images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3%;
+}
+
+.listen{
+    color: white;
+    text-align: center;
+}
+
+.customers{
+    display: flex;
+    padding: 3%;
+    justify-content: space-around;
+}
+
+.individual_customers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3%;
+}
+
+.customers_1{
+    background-color: white;
+    border: white;
+    flex-basis: 30%;
+    border-style: solid;
+    justify-content: space-around;
+}
+
+.section_six{
+    padding: 5%;
+    text-align: center;
+}
+
+.book_your_table{
+    padding: 3%;
+}
+
+.form{
+    line-height: 40px;
+    size: 80%;
+}
+
+.section_seven{
+    background-image: url(/img/burger_photo-1568901346375-23c9450c58cd.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 80%;
+    height:500px;
+}
+
+.section_eight{
+    background-color: rgb(58, 57, 57);
+    color: white;
+    display: inline-flex;
+}
+
+.footer{
+    background-color: rgb(68, 67, 67);
+    color: white;
+}
